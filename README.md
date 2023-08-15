@@ -6,3 +6,4 @@ Digunakan sebagai sayembara pencarian volunter untuk pembuatan website dosen. Ji
 Berikut daftar Volunter yang diterima:
 
 - Oon Arfiandwi, [oo.or.id](https://oo,or,id).
+- Ahmad Ramadhan Auni. [Linkedin](https://www.linkedin.com/in/blabla)
